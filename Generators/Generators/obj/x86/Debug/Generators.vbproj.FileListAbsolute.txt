@@ -1,0 +1,22 @@
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\obj\x86\Debug\WindowsApplication1.Form1.resources
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\obj\x86\Debug\WindowsApplication1.Resources.resources
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\bin\Debug\Generators.exe
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\bin\Debug\Generators.pdb
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\bin\Debug\Generators.xml
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\obj\x86\Debug\Generators.exe
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\obj\x86\Debug\Generators.xml
+D:\Soft\Майкрософт Studio\Уроки новичкам\Уроки\Generators\Generators\obj\x86\Debug\Generators.pdb
+C:\Users\Shiroie\Desktop\Generators\Generators\bin\Debug\Generators.exe
+C:\Users\Shiroie\Desktop\Generators\Generators\bin\Debug\Generators.pdb
+C:\Users\Shiroie\Desktop\Generators\Generators\bin\Debug\Generators.xml
+C:\Users\Shiroie\Desktop\Generators\Generators\obj\x86\Debug\Generators.vbprojAssemblyReference.cache
+C:\Users\Shiroie\Desktop\Generators\Generators\obj\x86\Debug\WindowsApplication1.Form1.resources
+C:\Users\Shiroie\Desktop\Generators\Generators\obj\x86\Debug\WindowsApplication1.Resources.resources
+C:\Users\Shiroie\Desktop\Generators\Generators\obj\x86\Debug\Generators.vbproj.GenerateResource.cache
+C:\Users\Shiroie\Desktop\Generators\Generators\obj\x86\Debug\Generators.vbproj.CoreCompileInputs.cache
+C:\Users\Shiroie\Desktop\Generators\Generators\obj\x86\Debug\Generators.exe
+C:\Users\Shiroie\Desktop\Generators\Generators\obj\x86\Debug\Generators.xml
+C:\Users\Shiroie\Desktop\Generators\Generators\obj\x86\Debug\Generators.pdb
